@@ -1,0 +1,12 @@
+{
+    "ignoreTestFiles": "**/examples/*",
+    "env": {
+        "PGUSER": "<user>s",
+        "PGHOST": "<host>",
+        "PGPASSWORD": "<yourpassword>",
+        "PGDATABASE": "<dbname>",
+        "PGPORT": "<portnumber>"
+    },
+    "viewportWidth": 1280,
+    "viewportHeight": 800
+}
