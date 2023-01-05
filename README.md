@@ -1,4 +1,4 @@
-Simple seed repository for writing tests in Cypress that interact with a MySQL database
+Simple seed repository for writing tests in Cypress that interact with a database
 
 Steps to use this repository:
 1. Set your database connection credentials in `cypress.json`
